@@ -1,6 +1,6 @@
 # har2csv
 
-This checks the urls which took greater than certain time and list them down and also dump into a csv file
+This simple python applicaiton lists all the urls which took greater than certain time and list them down and also dump into a csv file
 
 How to run
 
